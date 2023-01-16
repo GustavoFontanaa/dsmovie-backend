@@ -45,9 +45,15 @@ INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'O Espetacular Ho
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'The Witcher', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Matrix Resurrections', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/hv7o3VgfsairBoQFAawgaQ4cR1m.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Projeto X', 'https://www.themoviedb.org/t/p/original/5vAv4h4vugleYsbsNkUb9kcrk8h.jpg');
-INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Star Wars: A Guerra dos Clones', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/uK15I3sGd8AudO9z6J6vi0HH1UU.jpg');
-INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Star Wars: Episódio I - A Ameaça Fantasma', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/36LnijfQCOC89rCMOhn2OINXROI.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Venom', 'https://www.themoviedb.org/t/p/original/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Venom: Tempo de Carnificina', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Finalmente 18', 'https://www.themoviedb.org/t/p/original/bGePh6CyZIzrueokpvyijWeBZ4X.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Breaking Bad', 'https://www.themoviedb.org/t/p/original/bsNm9z2TJfe0WO3RedPGWQ8mG1X.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Game of Thrones', 'https://www.themoviedb.org/t/p/original/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Stranger Things', 'https://www.themoviedb.org/t/p/original/x93QzAgtHeRGgfK51Jh6URClBG8.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Peaky Blinders', 'https://www.themoviedb.org/t/p/original/kfUWupX3phYp7AleZA2U1dmVcjX.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'How I Met Your Mother', 'https://www.themoviedb.org/t/p/original/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'The Boys', 'https://www.themoviedb.org/t/p/original/mGVrXeIjyecj6TKmwPVpHlscEmw.jpg');
+
 
 
